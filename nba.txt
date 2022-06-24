@@ -1,0 +1,2 @@
+name:stephen curry
+num:30
