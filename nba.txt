@@ -1,2 +1,3 @@
 name:stephen curry
 num:30
+my fvorite people
